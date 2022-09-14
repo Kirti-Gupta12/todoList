@@ -1,3 +1,17 @@
+# 📝[TODOs LIST APP](https://63222d2838ac0e53b39c120c--kirti-todoslist.netlify.app/)
+
+**📌Various Tasks to can be added in the list and on adding empty task alert message will be displayed.<br>
+📌Tasks can be deleted by a ❌ button, also no task is being deleted on reload as they will be stored in your local storage.<br>
+📌There is an option of checking the task.<br>
+📌And if there is no task to display, appropriate message is being displayed.**
+
+* ...Beat your workoverload [📝](https://63222d2838ac0e53b39c120c--kirti-todoslist.netlify.app/)...
+
+
+<br><br>
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
